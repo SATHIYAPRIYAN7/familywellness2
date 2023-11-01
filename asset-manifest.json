@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/familywellness2/static/css/main.f70b3692.css",
+    "main.js": "/familywellness2/static/js/main.96eb1876.js",
+    "index.html": "/familywellness2/index.html",
+    "main.f70b3692.css.map": "/familywellness2/static/css/main.f70b3692.css.map",
+    "main.96eb1876.js.map": "/familywellness2/static/js/main.96eb1876.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f70b3692.css",
+    "static/js/main.96eb1876.js"
+  ]
+}

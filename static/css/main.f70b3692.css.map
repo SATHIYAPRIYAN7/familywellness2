@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.f70b3692.css","mappings":"AAAA,SACE,qBAAsB,CACtB,gBAEF","sources":["App.css"],"sourcesContent":[".App-div{\n  background-color: aqua;\n  min-height: 100vh;\n  \n}"],"names":[],"sourceRoot":""}
